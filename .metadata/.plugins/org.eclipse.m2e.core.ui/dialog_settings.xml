@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\BootM5Data24-Entity-TO-DTO"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot06-MongoDB-MongoTemplate"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot05-MongoDB-CpmplexTypesAndTransient"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot04-MongoDB-ComplexTypes"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot03-MongoDB-WhereConditions"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot02-MongoDB-ExternalMongoDB"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot01-MongoDB-EmbeddedMongoDB"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot17-JpaRepo-Mysql-Projections-Static"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\SpringBootHibernateProject"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\SpringBootHibernateProject-master"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot04-JdbcTemplate-Mysql-CURD-Operations"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot03-JdbcTemplate-H2DB-CURD-Operations-LambdaExp"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot02-JdbcTemplate-H2DB-CURD-Operations"/>
+			<item value="D:\JavaWorkspaces\WS-SpringBoot3\Boot01-JdbcTemplate-H2DB-CreateTable"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

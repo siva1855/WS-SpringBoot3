@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;siva.bootjdbc.model&apos; to &apos;BootM5Data06-JdbcTemplate-Mysql-Aggregations/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;BootM5Data05-JdbcTemplate-Mysql-BatchUpdate&apos;&#x0D;&#x0A;- Destination element: &apos;BootM5Data06-JdbcTemplate-Mysql-Aggregations/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;BootM5Data05-JdbcTemplate-Mysql-BatchUpdate/src/main/java/siva.bootjdbc.model&apos;" description="Copy package" destination="=BootM5Data06-JdbcTemplate-Mysql-Aggregations/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;siva.bootjdbc.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1600498582364" version="1.0"/>
+</session>
